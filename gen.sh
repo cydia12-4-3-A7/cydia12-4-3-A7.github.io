@@ -22,7 +22,7 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Simple things… Simpler.
+Description: "Simple things… Simpler."
 Date: $(date)
 EOF
 do_hash "MD5Sum" "md5sum"
