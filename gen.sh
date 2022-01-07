@@ -15,8 +15,8 @@ do_hash() {
 }
 
 cat << EOF
-Origin: Randy420's Repo
-Label: Randy420's Official Repo
+Origin: Randy420's test Repo
+Label: Randy420's test Repo
 Suite: stable
 Version: 1.0
 Codename: ios
