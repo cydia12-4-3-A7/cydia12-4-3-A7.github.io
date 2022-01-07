@@ -1,0 +1,15 @@
+Origin: Randy420's Repo
+Label: Randy420's Official Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Simple things… Simpler.
+Date: Fri Jan  7 13:51:26 EST 2022
+MD5Sum:
+ c6e115aa8b312c0298c8f4d8373591d1 706 this.is.not.real_420_iphoneos-arm.deb
+SHA1:
+ c5ac0bf2c4de387f5832806bf93f4b9c4182a668 706 this.is.not.real_420_iphoneos-arm.deb
+SHA256:
+ 6c6e57f56674bf74f5ea6e4b4ceb399f4137b190bd3c1fd2f8666999acfeb53b 706 this.is.not.real_420_iphoneos-arm.deb
